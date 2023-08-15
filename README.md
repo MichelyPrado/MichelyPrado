@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:monkey::cactus::sunflower: Sou uma bióloga em transição de carreira para Tecnologia :desktop_computer:
+Cadete na 42SP aprendendo Engenharia de Software na liguagem C
+Estudante de Programação Front-end do Senai no Programa Frod Enter
+:rocket: Curiosa e criativa buscando sempre aprender e evoluir
 <!--
 **MichelyPrado/MichelyPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
