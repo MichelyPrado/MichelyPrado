@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p>:monkey::sunflower::butterfly::dna::microscope: Sou uma bióloga em transição de carreira para Tecnologia :computer::cloud::octocat:</p>
+<p>:monkey::sunflower::butterfly::dna::microscope: Sou uma <b>bióloga</b> em transição de carreira para <b>Tecnologia</b> :computer::cloud::octocat:</p>
 <p> 🧑🏻‍🚀 Cadete na 42SP aprendendo Engenharia de Software na liguagem C  :memo::desktop_computer:</p>
 <p> :sparkles: Estudante de Programação Front-end do Senai no Programa Ford Enter :nerd_face:</p>
 <p> :rocket: Curiosa e criativa buscando sempre aprender e evoluir :mortar_board:</p>
