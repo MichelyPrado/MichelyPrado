@@ -2,7 +2,7 @@
 
 <p>:monkey::sunflower::butterfly::dna::microscope: Sou uma <b>bióloga</b> em transição de carreira para <b>Tecnologia</b> :computer::cloud::octocat:</p>
 <p> 🧑🏻‍🚀 Cadete na 42SP aprendendo Engenharia de Software na liguagem C  :memo::desktop_computer:</p>
-<p> :sparkles: Estudante de Programação Front-end do Senai no Programa Ford Enter :nerd_face:</p>
+<p> :sparkles: Estudante de Desenvolvimento Front-end :nerd_face:</p>
 <p> :rocket: Curiosa e criativa buscando sempre aprender e evoluir :mortar_board:</p>
 <p> :star: Fun fact: Sou apaixonada por macacos :monkey_face: mas me tornei especialista em olhos :eyes: e agora vivo mergulhada em códigos :hash::grey_exclamation:</p>
 
